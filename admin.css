@@ -1,0 +1,15 @@
+.parent {
+  display: flex;
+  justify-content: space-between; /* Add this to space the sections */
+}
+
+.product {
+  flex: 1;
+  margin-right: 20px; /* Add some margin to separate the sections */
+}
+
+.coupons {
+  flex: 1;
+  margin-left: 20px; /* Add some margin to separate the sections */
+}
+

@@ -1,0 +1,12 @@
+.home {
+    min-height: 400px;
+    background-color: rgb(24, 183, 205);
+    text-align: center;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: auto;
+    max-height: calc(100vh - 180px); /* Adjust this value based on your needs */
+  }
+  

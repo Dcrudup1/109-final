@@ -1,0 +1,15 @@
+/* footer.css */
+
+.footer-container {
+    background-color: #282c34;
+    color: #61dafb;
+    padding: 20px;
+    text-align: center;
+}
+
+.label-text {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+  /* Add more styles as needed */
